@@ -1,6 +1,7 @@
 [
-    {
-        "author": "Pete Hunt",
-        "text": "Hey there!"
-    }
+  {"author": "Pete Hunt", "text": "This is one comment"},
+  {"author": "Jordan Walke", "text": "This is *another* comment"},
+  {"author": "Annie Baer", "text": "Check out these dynamic comments"},
+  {"author": "Annie Baer", "text": "Wait actually this is kind of cool"},
+  {"author": "Annie Baer", "text": "Okay this is the last one"}
 ]
